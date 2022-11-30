@@ -37,7 +37,7 @@ function afficherProduit (produits){
 
 //faire le lien entre un produit de la page d'accueil et la page produit 
   
-  const linkProduct = ""
+  const linkProduct = "http faire le dépot sur git "
 
 
 
